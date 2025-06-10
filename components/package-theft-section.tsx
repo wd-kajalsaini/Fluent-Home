@@ -8,7 +8,7 @@ export default function PackageTheftSection() {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="relative">
             <Image
-              src="https://www.fluenthome.com/wp-content/uploads/2024/10/home-security-1024x753.png"
+              src="parcel.webp"
               alt="Package delivery protection system"
               width={600}
               height={500}
