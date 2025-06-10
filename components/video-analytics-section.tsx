@@ -46,7 +46,7 @@ export default function VideoAnalyticsSection() {
 
           <div className="relative">
             <Image
-              src="https://www.fluenthome.com/wp-content/uploads/2025/05/74d86fb9-e4b9-4723-9cba-3ea261548a1c.png"
+              src="personDetected.webp"
               alt="AI video analytics in action"
               width={600}
               height={500}

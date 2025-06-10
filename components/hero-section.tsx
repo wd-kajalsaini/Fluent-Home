@@ -26,7 +26,7 @@ export default function HeroSection() {
           <div className="relative">
             <div className="relative">
               <Image
-                src="https://www.fluenthome.com/wp-content/uploads/2025/05/74d86fb9-e4b9-4723-9cba-3ea261548a1c.png"
+                src="personDetected.webp"
                 alt="Security camera with smart notifications"
                 width={700}
                 height={500}

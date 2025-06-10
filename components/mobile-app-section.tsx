@@ -61,7 +61,7 @@ export default function MobileAppSection() {
 
           <div className="relative">
             <Image
-              src="https://www.fluenthome.com/wp-content/uploads/2024/10/Multiple-Layers-2.png"
+              src="/Multiple-Layers-2.webp"
               alt="Mobile app interface showing security controls"
               width={400}
               height={600}
